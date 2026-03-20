@@ -1,4 +1,5 @@
 print("hello")
 print("bye")
 print("developer2")
-
+print("take care")
+print("dev 1")
